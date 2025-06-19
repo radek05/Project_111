@@ -4,8 +4,9 @@ V tomto projektu bude cílem vytvořit textový analyzátor - program,
 který se bude umět prokousat libovolně dlouhým textem a zjistit o něm různé informace.
 
 Program vykoná následující kroky:
-Vyžádá si od uživatele přihlašovací jméno a heslo, zjistí, jestli zadané údaje odpovídají někomu z registrovaných uživatelů, 
-pokud je registrovaný, pozdrav jej a umožni mu analyzovat texty,pokud není registrovaný, upozorni jej a ukonči program.
+Vyžádá si od uživatele přihlašovací jméno a heslo, zjistí, jestli zadané údaje odpovídají 
+někomu z registrovaných uživatelů, pokud je registrovaný, pozdrav jej a umožni mu analyzovat texty,
+pokud není registrovaný, upozorni jej a ukonči program.
 
 Dále program nechá uživatele vybrat mezi třemi texty, uloženými v proměnné TEXTS:
 Pokud uživatel vybere takové číslo textu, které není v zadání, program jej upozorní a skončí,
